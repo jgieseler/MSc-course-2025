@@ -1,6 +1,5 @@
 {
     "description": "<p>Repository for the MSc Special Course in Space Physics held within the <a href=\"https://soler-horizon.eu\">SOLER (Energetic Solar Eruptions: Data and Analysis Tools)</a> project at the University of Turku in May 2025.</p>",
-    "license": "BSD-3-Clause", 
     "title": "SOLER MSc Special Course in Space Physics", 
     "grants": [
         {
